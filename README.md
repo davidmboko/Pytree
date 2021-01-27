@@ -1,2 +1,4 @@
 # Pytree
-A project that uses tree data structure and object oriented programming to display the files of your computer on a pygame this play using rectangles. Additionally, same structure is used to organize world data hierarchally 
+A project that uses tree data structure and object oriented programming to display the files of your computer on a pygame this play using rectangles according to the size of each file. Additionally, same structure is used to organize world data hierarchally rectangles are created according to the population of the country or region.
+
+To run file open treevisualizer.py and to the main function uncomment the examplified directory and type in one of your computer directories. If you wish to test the population data hierarchy uncomment the population directory in the main. Run the tree visualizer file once you do the first option or the second(do not run both at the same time). You may delete squares by right clicking on them. You may select them by clicking on a square. You may increase or decrease the size of a rectangle by pressing up and down arrows after selecting a rectangle.
